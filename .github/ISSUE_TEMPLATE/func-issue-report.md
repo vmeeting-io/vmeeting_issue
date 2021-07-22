@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: func issue report
 about: Create a report to help us improve
 title: "[lately][func]"
 labels: bug
